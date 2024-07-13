@@ -24,5 +24,120 @@ It can be hard to know where to begin. In this course, you'll learn:
 
 * What makes a project
 ----------------------
+What exactly is a project? And how does it differ from what you're doing everyday already? This may seem like a simple question with a simple answer. But until you've been the one trying 
+to jump start a business project and then keep it moving forward, there's more to it than you might realize.
+
+You need to start at the beginning. In business, projects often become necessary when a need arises that falls outside of your daily work routine. **** GAZPROM PROJECT ****
+
+Say, your team meets every month to review work performance, and discuss ideas for improving the workflow. These monthly meetings are not a project. They're part of the normal operations
+of the business and are ongoing and non specific to any one topic or business need. 
+
+But perhaps at one of these monthly meetings, you make the point that within your department, you find the decision making process for certain activities lacks clarity, upper management 
+agree, and now you find yourself tasked with establishing a set of more workable processes for your team to follow. 
+
+. This is signed off with a deadline for the end of the quarter. So, in a finite amount of time, you must create new procedures for your team's future decision making. 
+
+Now, you have a project:
+
+	. no matter how big or small. For something to be considered a project, it must be a temporary, time-bound endeavor. **** GAZPROM PROJECT **** (If the Gazprom project doesn't have 
+	very clear definined deadline the project is set up to fail by definition from the very beginnint, and that applies to other ongoing project in RR Technologies).
+
+	. Another general characteristic is that typically, a project creates a new product, service, or outcome. **** GAZPROM PROJECT **** (Here the definition is clearly set up).
+
+Take the Egyptian pyramids for an obvious example, they took time, resources, and a great deal of human effort to provide a beautiful protected burial site for the pharaohs. They 
+represent the outcome of a project. As a more modest business-related example, suppose during one of your HR department's monthly meetings, a recommendation is made for the company to 
+spend more time and resources to improve employee onboarding. The team believes that new employees need to better understand the company goals and workflows, and how their respective 
+jobs align with the company's key initiatives. 
+
+Upper management sign off on the idea and so, it becomes a project. 
+
+	. It's a project because it hasa specific outcome, creating an addition to the employees orientation program, to focus more on company goals and in theory, lead to better overall
+	productivity and job performance. **** GAZPROM PROJECT **** (The specific outcome is the software product that fullfills the requirements).
+
+
+Using time and resources, a project should create something that didn't exist before. But, there's yet another characteristic to consider. 
+
+	. A project must meet a business need. This need can come from many sources, such as a new technology, a change in industry regulations, or a customer request. 
+	**** GAZPROM PROJECT **** (In the case of our project, the business need is clearly defined).
+
+	For example, if customer feedback suggests significant support for a live chat option on your web site, then maybe that has identified a business need. Or, if employees 
+	consistently complain about how time consuming virtual work collaborations can be, perhaps this identifies the need for improvements in the system's network.
+
+	The business need, whatever it may be, is both the foundation and the justification of the project. It should be the primary focus around which all the other elements of the 
+	project revolve. **** GAZPROM PROJECT **** (Please don't forget to take this into consideration for the day of the presentation in front of Gazprom).
+
+
+	Whatever the time frame, whatever the desired outcome, the business need is the characteristic that must drive the project.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
