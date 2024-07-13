@@ -72,6 +72,145 @@ Using time and resources, a project should create something that didn't exist be
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Where projects come from
+--------------------------
+New projects aren't launched on a whim. Experienced leaders know that their business reasons for starting a project need to be very clear. 
+
+	. Valuable time and resources are at stake and must be used wisely. 
+
+	. Before you're handed a project to lead, its value and utility have been assessed and justified. 
+
+	. Business reasons for undertaking a project are generally tangible. Meaning that it's possible to place a monetary value on the expected outcome. 
+
+	. Financial gain is something that you can see and you can touch. So it's no surprise that financial considerations are often the reason for undertaking projects in business.
+
+	. Such economic factors can include:
+		. increased revenues, 
+		. improved profit margins,
+		. cost savings
+		. and even things like tax considerations and market volatility.
+
+Say, a company's shipping costs are rising. A team is assembled to analyze the shipping process and look for ways to reduce costs. They discover that their warehouses are still issuing 
+physical picking tickets. They then suggest an automated process, requiring the purchase of new software and inventory devices. 
+
+Despite the initial costs, the financial gain that will be realized from the process change is clear, it's tangible, and the project gets approved. 
+
+	. Another tangible reason for undertaking a project is to create a new asset. This is even clearer if the asset you're creating has value in and of itself. 
+
+If, for example, your project is to design and build a new piece of machinery that will help your manufacturing company increase its output, then that increased output has the potential to
+support expanded sales and to increase profits. 
+
+	. Customer demand is another powerful business reason for undertaking a project.
+
+Identifying customer needs, even as they're changing, can mean the difference between the success and failure of a project. **** GAZPROM PROJECT **** (It's necessary to take this into 
+consideration and emphazise this when talking with Gazprom).
+
+Consider the smartphone industry, each new iteration that comes on the market represents a project undertaken to produce something new. That something then brings value to the company by 
+meeting a customer need. A need that's always in flux.
+
+Smartphones get bigger. They get smaller. They get faster and smarter. 
+
+Each new feature is an attempt to keep pace with customer need, which in turn translates into an increase in customer demand.
+
+Business reasons can also be intangible.
+
+	. Improving employee morale, **** RR TECHNOLOGIES **** (We definitely need to work on this to improve the corporate culture of the company.  We can't continue working as we are
+	doing). 
+	
+	. better brand recognition, or
+
+	. creating customer goodwill, are examples of intangible value.
+
+You may not be able to quantify these reasons in monetary terms, but this doesn't mean they aren't valuable. A company picnic might seem frivolous, but it can help employees feel valued 
+and thus, more motivated in their job. 
+
+Or if your company were to sponsor an event in the local community, this creates community goodwill and publicity.  
+
+It enhances your company's reputation and possibly creates further customer demand.
+
+It's hard to quantify the value of the event in financial terms, but its intangible benefits are recognized, thus leading to an approved project.
+
+Projects can require a lot of time, effort, and money.
+
+That's why having solid business reasons is so essential to getting a project off the ground.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Project Manager Responsibilities
+----------------------------------
+As a project manager, you're responsible for all of the project's moving parts and keeping them connected. A small change to one will have a domino effect on the others. 
+
+Having a clear understanding of the key responsibilities involved in leading a project will help keep all the interrelated parts working together in harmony.
+
+Defining the scope of the project is one of these key responsibilities.
+
+	. The scope is what a project should specifically include and what it shouldn't include. **** GAZPROM PROJECT **** (Is the scope of the project already clearly defined)?
+
+Bear in mind that what everyone visualizes for the project might be different. So defining the scope helps get your team working off the same page, right from the start. And by specifying 
+the exact features of the product or service that's being created, you'll prevent misunderstandings that could drain precious time and effort later. **** GAZPROM PROJECT ****
+(We cannot continue working with this system of demo creations, and adding more and more features in each iteration without any order an planning because this is expensive, and time
+consuming).
+
+	. Another key responsibility is managing the project budget. A detailed plan of how money will be spent should include a reserve fund to cover the unexpected events that often 
+	sidetrack your project. 
+
+	. There is also the schedule. Because time is money. The schedule helps keep things on track. The schedule includes the start date, dates for key milestones, and the end date of 
+	your project. **** GAZPROM PROJECT **** (Here we are failing, we are not meeting the deadlines, there are not deadlines due to the nature of the demos).
+
+	The schedule can be further broken down into specific activities, to make things more manageable. Think of the 
+		. scope, 
+
+		. budget,
+
+		. and schedule as interrelated wheels. The project needs all of them moving together in tandem to get to where you want to go. 
+
+As the project leader, you must also ensure that quality standards are being met. Referring to the project scope as a guide can help you to focus on the targeted outcomes.
+**** GAZPROM PROJECT **** The technical leader will be in charge of this task.
+
+Quality checks are needed to make sure that all the features are there and in good working order as agreed. 
+
+		. You'll also handle the project resources. This means managing the people, material, and equipment needed to do the work.
+
+		. And in every project there's an element of risk involved. The risks are thepotential events that might negatively affect your project.
+		**** GAZPROM PROJECT **** (For example developer who are quitting their jobs in the company, creation of silos of information). 
+
+Managing the fallout from equipment failure or cost overruns is a project manager's responsibility.
+
+Part of your plan should include budget and time contingencies to take the risks into account. These six areas:
+
+	. scope, 
+	. budget, 
+	. schedule, 
+	. quality, 
+	. resources, and
+	. risks 
+
+represent the moving parts that you must coordinate. 
+
+It is also the case that any one or all these areas can be constraints on your project.
+
+A constraint is something that is a limiting factor. It will affect the way you need to carry out the work. If you had an unlimited budget and unlimited time, then you could sit back and 
+relax. 
+
+But coordinating multiple areas under tight constraints is a big challenge. 
+
+Imagine, right in the middle of the project, you're told the completion date must move forward, as key team members will be needed to work on something else. **** GAZPROM PROJECT ****
+(This is exactly what is happening in the project, and due to the fact that only one developer that is not delegating any work to any other developers is doing everything, the Demo was 
+delayed and we need to solve this).
+
+How can you save time?
+
+Do you factor in longer daily working hours with overtime cost seating into the reserve? That's one possible solution.
+
+Or are there aspects of the project that could be scaled back to save time? **** GAZPROM PROJECT **** (This is exactly what happened, the demo doesn't have all the features that the
+directors of the company would like to show to the client, due to the lack of management).
+
+As project manager, it's up to you to work with the team and stakeholders to identify and choose the best options to keep the project's wheel spinning.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
