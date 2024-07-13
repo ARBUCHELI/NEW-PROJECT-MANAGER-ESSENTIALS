@@ -213,6 +213,142 @@ As project manager, it's up to you to work with the team and stakeholders to ide
 
 * Learning from the Past
 ------------------------
+As you begin managing a new project, you may feel left alone in the wilderness. You have a lot of responsibilities, a lot of people looking to you forguidance, and a lot of weight on your 
+shoulders. 
+
+But you're really not alone, you are surrounded by resources you can leverage to your and your project's advantage. 
+
+	. First among these resources are your project team members. They're on your team for a reason. And that reason is their experience and expertise. 
+	**** GAZPROM PROJECT **** (There are two team members who want to cooperate.  Dmitry and Anastasia).
+
+Being the PM doesn't mean you're also supposed to be an expert in every phase of the project. In fact, often times the PM has only a passing expertise in the project area. 
+
+That's not the job, that's what the team is for. Beyond the team itself, virtually any organization has its grizzled veterans. 
+
+	. Experienced colleagues, many of whom have been right where you are now, they've led projects, they've made mistakes,they've overcome them, learning as they did. Most are going 
+	to be happy to share with you, you can learn from their mistakes, and benefit from their successes. 
+
+Among these colleagues are higher level employees including the one that has assigned you as project manager. Your company management in general and your direct supervisor in particular 
+are invaluable sources of information. They've been in your shoes before, and likely have the answers you need or can help direct you to someone who can help. 
+
+Maybe you are trouble with a talented team member who isn't collaborating well with others.
+
+	**** GAZPROM PROJECT **** (Ask the directors of the company how to work better with Vitaliy).
+
+You know that this team member is a top performer. But how do you get him to work more effectively on the team? Don't hesitate to ask for help.
+
+Maybe this individual's manager has experienced the same behavior and can offer you some advice. 
+
+Someone in your company has already overcome the challenges you now face. You can learn from them and in doing so you'll save yourself time and stress. 
+
+	. Most organizations also boast in-house experts, even if they aren't available to join your team directly.
+
+These colleagues can be consulted or borrowed short term to lend their expertise to your team. 
+
+Perhaps they could lead training sessions to share their skills and knowledge or work one on one with one of your team members.
+
+Again, senior experienced colleagues are likely to know just who to turn to.
+
+But perhaps your project requires specialized knowledge or resources that simply can't be covered internally. If you must turn to external vendors, you'll want to work with your 
+purchasing department. 
+
+They'll have knowledge ofreliable, reputable sources of the products, services, or expertise you need to see your project through. 
+
+All these things may seem obvious. But the first days of project management can seem overwhelming as you cope with new duties, new responsibilities, and new working relationships.
+
+Knowing that there are ready sources of experience and knowledge standing beside you make stepping into a PM role a little less daunting. And gives your project the best chance of success.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Project Stakeholders
+----------------------
+As a project manager, you need to know who's invested in your project.
+
+	. Anyone who can affect or is affected by your project is a stakeholder. These are the people who can persuade, coerce or motivate people to bring about change, because they have 
+	a stake in the outcome.
+
+	. Conversely, they are also the people who can obstruct or slow down your project success if they're not onboard. **** GAZPROM PROJECT **** (For this reason it was so important to 
+	involve Valeriy Mikhailovich in the process).
+
+	This means, it's a good idea to know exactly who your stakeholders are right from the start. Because good stakeholder management and communication is essential to your project 
+	success.
+
+	To identify the stakeholders, think about who's interested or invested in your project.
+
+	. Sponsors are among the most critical stakeholders. These are the individuals who fund the project, and they can influence the project from initial scoping right through to the 
+	end result.
+
+They are closely involved in the project's performance and will require regular status updates.
+
+	. Customers may be stakeholders, and they can be external buyers of your products and services, or in some cases, internal to your organization. Fellow employees who will benefit 
+	from your project success.
+
+	. If say, your project involves developing new features in one of your products, customers will have direct influence, especially if you're doing market research and asking for 
+	customer feedback.
+
+It is important to keep in mind that customer satisfaction may be directly related to how they were consulted and engaged throughout the project.
+
+	. Anyone who directly uses the project's product or service is an end user. And end users are important stakeholders that also need to be considered. Although end users are highly 
+	interested in the project's outcome, they're not involved directly in the decision making. Though engaging end users, for example, through demos and feedback can help focus the 
+	project's development process. **** GAZPROM PROJECT **** (Take into consideration that the main aim of the demo is to engage the clients, to get feedback from them that can be use
+	in further development).
+
+	. Business partners are also key stakeholders. They share risks and opportunities. If they lose focus or pull out, it could set a project back by days or even weeks. Or 
+	conceivably, derail it altogether.
+
+	. Competitors are a set of stakeholders that are unlikely to influence your project directly. However, they might monitor your project,looking for an edge in the marketplace. So, 
+	do likewise, encouraging your team to keep an eye on the activity of competitors may make your project more competitive. 
+	**** GAZPROM PROJECT **** (Look out there if some similar platform already exists in Russia).
+
+	. And of course, your project team members who perform the project work are key internal stakeholders, who have potential to greatly affect a project's progress and outcome.
+
+This is especially true for anyone in a decision making or management role.
+
+Stakeholder management is critical at every stage, but especially as you begin.
+
+And while some stakeholders are more important than others, key persons at any level can affect the project's progress and outcome dramatically.
+
+If you don't consider everyone's expectations right at the start, it will cost you time and money. And may be, your project's ultimate success.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Job Aid: Identifying Your Stakeholders
+-----------------------------------------
+Stakeholder communication and management is critical to a project’s success. The first step is knowing who your stakeholders are and how they may influence your project.
+
+The table below is a summary of key stakeholders, their roles, and potential areas of influence on a project.
+
+terms and explanations
+
+Stakeholder					Role								Areas of influence
+-----------					----								------------------
+Sponsors					Fund the project						They're closely involved in the project's performance and will require 
+														regular status updates
+
+External customers				Buyers of your products or services				If you're doing market research and asking for customer feedback, they can 
+														have direct influence on decisions
+
+Internal customers				Fellow employees who will benefit from your project's success	Feedback from your fellow employees can influence decisions
+
+End users					Interested in your project's outcome				End user demos and feedback can help focus the development process
+
+Business partners				Share risks and opportunities					If they lose focus or pull out, it could set your project back or derail it 
+														altogether
+
+Competitors					Monitor your project, looking for an edge in the marketplace	They can influence the competitiveness of your project
+
+Project team members				Perform the project work					They can greatly affect a project's progress and outcome
+
+
+* Using the table as a guide make a list of your project's possible stakeholders, their role in your project, and the potential influence they may have in your project's progress and 
+outcome.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
